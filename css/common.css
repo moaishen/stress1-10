@@ -1,0 +1,33 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font: 14px "microsoft yahei", Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+li,
+ul,
+p,
+td,
+tr,
+dd,dt,
+dl,
+a {
+  margin: 0;
+  padding: 0;
+  border: none;
+  list-style: none;
+}
+.active {
+  color: #6B9AFF;
+}
+.rt {
+  float: right;
+}
+.clear {
+  clear: both;
+}
+.lf{
+  float: left;
+}
